@@ -8,7 +8,7 @@ transitions in modern browsers and inspired by the idea behind prezi.com.
 
 **WARNING**
 
-impress.js may not help you if you have nothing interesting to say ;)
+impress.js may not help you if you have nothing interesting to say ;)1
 
 
 HOW TO USE IT
